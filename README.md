@@ -3,7 +3,9 @@ LibroVault
 A smart eBook management system and personal digital library, powered by AI. LibroVault is a modern, full-stack web application designed for readers and creators. It provides a seamless platform to upload, manage, read, and discover eBooks, with a powerful admin dashboard and intelligent AI features to enhance the user experience. 
  
  Live Demo 
+
 ● Frontend (Vercel): https://librovault031.vercel.app/ 
+
 ● Backend API (Render): https://librovault-backend.onrender.com/ 
 
 ✨
