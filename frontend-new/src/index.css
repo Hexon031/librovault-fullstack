@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add these styles to ensure the app takes up the full screen height */
+html, body, #root {
+  height: 100%;
+}
+
+/* This is for the link-style buttons on the login page */
+.link-button {
+  @apply bg-transparent border-none text-cyan-400 hover:text-cyan-300 underline cursor-pointer p-0 font-semibold;
+}
